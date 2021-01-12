@@ -1,0 +1,5 @@
+dcganv6=175
+dcganv5=155
+dcgan-v4=161
+wganv1-0=165
+wganv1-1=151
